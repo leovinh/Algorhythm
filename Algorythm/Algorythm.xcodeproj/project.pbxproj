@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					B41C20001BE91373006CDD08 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 6E6C99VUC9;
 					};
 					B41C20141BE91373006CDD08 = {
 						CreatedOnToolsVersion = 7.1;
@@ -401,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Algorythm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xyz.cititech.Algorythm;
@@ -412,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Algorythm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xyz.cititech.Algorythm;
@@ -486,6 +489,7 @@
 				B41C202B1BE91373006CDD08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B41C202C1BE91373006CDD08 /* Build configuration list for PBXNativeTarget "AlgorythmTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +498,7 @@
 				B41C202E1BE91373006CDD08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B41C202F1BE91373006CDD08 /* Build configuration list for PBXNativeTarget "AlgorythmUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +507,7 @@
 				B41C20311BE91373006CDD08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
